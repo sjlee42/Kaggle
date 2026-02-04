@@ -1,4 +1,4 @@
-# Kaggle Practice
+# Kaggle
 
 캐글 연습 프로젝트 모음
 
